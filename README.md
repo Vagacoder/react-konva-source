@@ -1,4 +1,12 @@
 # React Konva
+## Original Repo is here: https://github.com/konvajs/react-konva
+### Cloned at 10/15/2019
+
+[Documentation](https://konvajs.org/docs/index.html)
+
+[React Docs](https://konvajs.org/docs/react/)
+
+[Konva API](https://konvajs.org/api/Konva.html)
 
 [![Build Status](https://travis-ci.org/konvajs/react-konva.svg?branch=master)](https://travis-ci.org/konvajs/react-konva) [![Greenkeeper badge](https://badges.greenkeeper.io/konvajs/react-konva.svg)](https://greenkeeper.io/)
 
